@@ -1,0 +1,9 @@
+{"id":"c1","disease":"STEMI","text":"STEMI常表现为持续性胸痛、出汗，ECG可见ST段抬高，需尽快启动再灌注治疗。","source":"doc1.pdf#p12"}
+{"id":"c2","disease":"STEMI","text":"STEMI患者应立即给予阿司匹林（Aspirin）负荷剂量，并迅速启动PCI通道，目标门-球时间小于90分钟。","source":"doc1.pdf#p14"}
+{"id":"c3","disease":"STEMI","text":"STEMI时肌钙蛋白（Troponin）升高，心肌酶谱异常，血压可下降，休克风险高。","source":"doc1.pdf#p15"}
+{"id":"c4","disease":"主动脉夹层","text":"主动脉夹层典型表现为突发性胸背部撕裂样剧烈疼痛，常伴双上肢血压不一致。","source":"doc2.pdf#p8"}
+{"id":"c5","disease":"主动脉夹层","text":"主动脉夹层诊断首选CT血管造影（CTA），可明确夹层范围和类型，需紧急外科会诊。","source":"doc2.pdf#p10"}
+{"id":"c6","disease":"主动脉夹层","text":"主动脉夹层Stanford A型需急诊手术，Stanford B型可先行药物控制血压和心率。","source":"doc2.pdf#p12"}
+{"id":"c7","disease":"肺栓塞","text":"肺栓塞常见症状为突发胸痛、呼吸困难和心动过速，D-dimer升高有重要诊断意义。","source":"doc3.pdf#p6"}
+{"id":"c8","disease":"肺栓塞","text":"肺栓塞确诊后应立即启动抗凝治疗，常用低分子肝素或普通肝素，大面积肺栓塞可考虑溶栓。","source":"doc3.pdf#p9"}
+{"id":"c9","disease":"肺栓塞","text":"肺栓塞高危患者需行CT肺动脉造影（CTPA）明确诊断，同时评估血流动力学状态。","source":"doc3.pdf#p11"}

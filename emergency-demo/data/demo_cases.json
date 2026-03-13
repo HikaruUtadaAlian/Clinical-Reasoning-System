@@ -1,0 +1,20 @@
+[
+  {
+    "id": "case_a",
+    "label": "Case A - STEMI",
+    "text": "65岁男性，胸痛2小时，出汗，血压90/60，ECG示ST段抬高。",
+    "expected_diagnosis": "STEMI"
+  },
+  {
+    "id": "case_b",
+    "label": "Case B - 主动脉夹层",
+    "text": "58岁男性，突发胸背部撕裂样疼痛，双上肢血压不一致。",
+    "expected_diagnosis": "主动脉夹层"
+  },
+  {
+    "id": "case_c",
+    "label": "Case C - 肺栓塞",
+    "text": "42岁女性，突发胸痛伴呼吸困难，心动过速，D-dimer升高。",
+    "expected_diagnosis": "肺栓塞"
+  }
+]
